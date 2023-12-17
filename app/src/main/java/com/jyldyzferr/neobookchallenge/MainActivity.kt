@@ -11,6 +11,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.hilt.navigation.compose.hiltViewModel
+import com.jyldyzferr.neobookchallenge.presentation.MyEcoMarketApp
 import com.jyldyzferr.neobookchallenge.presentation.screens.main_screen.MainScreen
 import com.jyldyzferr.neobookchallenge.presentation.screens.main_screen.MainScreenViewModel
 import com.jyldyzferr.neobookchallenge.ui.theme.NeobookChallengeTheme
@@ -25,11 +26,12 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    val viewModel: MainScreenViewModel = hiltViewModel()
-                    MainScreen(
-                        modifier = Modifier,
-                        uiStateFlow = viewModel.uiStateFlow,
-                    )
+                    MyEcoMarketApp()
+//                    val viewModel: MainScreenViewModel = hiltViewModel()
+//                    MainScreen(
+//                        modifier = Modifier,
+//                        uiStateFlow = viewModel.uiStateFlow,
+//                    )
                 }
             }
         }
