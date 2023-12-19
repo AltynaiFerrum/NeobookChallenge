@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">NeobookChallenge</string>
     <string name="products">Products</string>
+    <string name="description">You can order fruits, vegetables, herbs, dried fruits, as well as those made from natural eco-friendly products (jams, salads, pickles, compotes, etc.) conveniently and with high quality
+and at an affordable price.
+Ready to cooperate mutually beneficial
+with shops.
+Our prices are the same as on the market.
+We are interested in saving your money and time.
+Delivery cost is 150 soms and more is added for the outskirts of the city.
+If a confirmed order is rejected for more than
+2 times the Client is blacklisted!!</string>
+    <string name="call">Позвонить</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="instagram">Instagram</string>
 </resources>

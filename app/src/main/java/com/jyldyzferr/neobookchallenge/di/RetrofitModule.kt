@@ -11,7 +11,7 @@ import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
-private const val BASE_URL = "ttps://neobook.online/ecobak/"
+private const val BASE_URL = "https://neobook.online/ecobak"
 
 @Module
 @InstallIn(SingletonComponent::class)
