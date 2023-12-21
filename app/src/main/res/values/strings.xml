@@ -13,4 +13,6 @@ If a confirmed order is rejected for more than
     <string name="call">Позвонить</string>
     <string name="whatsapp">WhatsApp</string>
     <string name="instagram">Instagram</string>
+    <string name="network">Отсутствует интернет  соединение</string>
+    <string name="network_1">Попробуйте подключить мобильный интернет</string>
 </resources>
