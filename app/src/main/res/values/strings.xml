@@ -15,4 +15,10 @@ If a confirmed order is rejected for more than
     <string name="instagram">Instagram</string>
     <string name="network">Отсутствует интернет  соединение</string>
     <string name="network_1">Попробуйте подключить мобильный интернет</string>
+    <string name="bottom">Яблоко красная радуга сладкая</string>
+    <string name="bottom_1">340</string>
+    <string name="bottom_3">Оформить заказ</string>
+    <string name="bottom_2">Cочный плод яблони, который употребляется в пищу в свежем
+и запеченном виде, служит сырьём
+в кулинарии и для приготовления напит</string>
 </resources>
