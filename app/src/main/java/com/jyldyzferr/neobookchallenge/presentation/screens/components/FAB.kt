@@ -3,6 +3,7 @@ package com.jyldyzferr.neobookchallenge.presentation.screens.components
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.FloatingActionButton
 import androidx.compose.material.Scaffold
+import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.unit.dp
 
@@ -27,4 +28,11 @@ fun MyFAB() {
             contentColor = Color(0xFF442c2E)
         ) {}}
     )
+}
+
+@Composable
+fun TestGithub(
+
+) {
+    Text(" Why you ?")
 }
